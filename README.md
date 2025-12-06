@@ -1,1 +1,1 @@
-# Information-Theory-with-Python
+# Information Theory with Python
