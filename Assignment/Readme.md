@@ -1,4 +1,4 @@
-# Information Theory Assignment - Fano Coding
+# Assignment - Fano Coding
 
 This project implements the Fano coding algorithm in Python to process character frequencies from the Greek Constitution text. It calculates probabilities, entropy, generates binary codes, and computes the average codeword length.
 
