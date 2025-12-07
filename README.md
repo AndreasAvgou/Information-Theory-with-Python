@@ -1,6 +1,6 @@
 # Information Theory with Python
 
-This project contains Python implementations for **Lab 01** and **Lab 02**, organized into separate modules.
+This project contains Python implementations for Information Theory organized into separate modules.
 
 ## Folder Structure
 
