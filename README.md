@@ -1,4 +1,11 @@
+<div align="center">
+<img width="1536" height="1024" alt="mlm-chugani-shannon-modern-ai-feature" src="https://github.com/user-attachments/assets/eccc9c10-9951-41ce-a0dc-03f1db5acee3" />
+
+
 # Information Theory with Python
+  
+</div>
+
 
 This project contains Python implementations for Information Theory organized into separate modules.
 
